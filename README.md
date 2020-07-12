@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I used https://www.themoviedb.org API KEY.
+
 Link to project website https://stancuandrei.github.io/react-movie/
 
 ## Available Scripts
